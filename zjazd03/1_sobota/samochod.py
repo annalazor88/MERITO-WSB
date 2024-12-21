@@ -21,6 +21,6 @@ class Rower:
 
 
 if __name__ == '__main__':
-    print("TO jest test mojeje klasy Samochod i tworzenia obiektu")
+    print("TO jest test mojej klasy Samochod i tworzenia obiektu")
     samochod = Samochod("BMW", "e30")
     samochod.print()
