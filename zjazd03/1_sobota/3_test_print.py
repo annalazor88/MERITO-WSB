@@ -1,0 +1,2 @@
+def print(a):
+    input
